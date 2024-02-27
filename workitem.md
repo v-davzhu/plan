@@ -29,8 +29,8 @@ work item status
 - [ ] Work on the Field search and return results.
 - [ ] Authorization issue. (Two API: our function API dzsearchfunc.azurewebsites.net, and substrate.office.com)
 - [ ] Find the owner of substrate.office.com/search and get a secrete code
-- [ ] 
-- [ ] 
+- [ ] Todo
+- [ ] Todo
 
 
 
