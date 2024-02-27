@@ -27,3 +27,4 @@ work item status
 - [x] "Premium" display issue for each search. Need to add and modify the "connector-config-certification.json" file.
 - [ ] Work on based on DataType and populate "Operator".
 - [ ] Work on the Field search and return results.
+- [ ] Authorization issue. (Two API: our function API dzsearchfunc.azurewebsites.net, and substrate.office.com)
