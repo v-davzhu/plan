@@ -28,3 +28,9 @@ work item status
 - [ ] Work on based on DataType and populate "Operator".
 - [ ] Work on the Field search and return results.
 - [ ] Authorization issue. (Two API: our function API dzsearchfunc.azurewebsites.net, and substrate.office.com)
+
+
+
+
+
+
