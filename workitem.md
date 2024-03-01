@@ -25,8 +25,8 @@ work item status
 # Todo item
 - [ ] How to remove the hyperlink in the connector. for example "Show advance options"
 - [ ] displays only two search fields on the connector. discuss with Simran. suggestion 4 to 5 output field.
-- [ ] Modify Message Search in the Definition file based on File
-- [ ] Modify People Search in the Definition file based on Message.
+- [x] Modify Message Search in the Definition file based on File
+- [x] Modify People Search in the Definition file based on Message.
 - [ ] Work on based on DataType and populate "Operator".
 - [ ] Work on the Field search and return results.
 - [ ] Authorization issue. (Two API: our function API dzsearchfunc.azurewebsites.net, and substrate.office.com)
