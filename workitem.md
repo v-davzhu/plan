@@ -34,6 +34,9 @@ work item status
 - [ ] Check Date field for Messages entity - check the format
 - [ ] Check if API file preview image field for Files entity - jpg / png
 - [ ] Check filtering for People. Check filtering for External
+- [ ] Display File Top 4: Filename, Path, Description, and DocID
+- [ ] Message: Display Top 4: ConversationTopic, Preview, DisplayTo, and DataTimeSent
+- [ ] People: Display Top 4 Field: ID, DisplayName, EmailAddress, and TenantID
 - [ ] Todo
 - [ ] Todo
 
