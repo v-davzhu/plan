@@ -37,6 +37,8 @@ work item status
 - [X] File: Display Top 4: Filename, Path, Description, and DocID
 - [x] Message: Display Top 4: ConversationTopic, Preview, DisplayTo, and DataTimeSent
 - [x] People: Display Top 4 Field: ID, DisplayName, EmailAddress, and CompanyName
+- [ ] CodeQL Best Practice.
+- [ ] Postman query
 - [ ] Todo
 - [ ] Todo
 
